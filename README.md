@@ -1,5 +1,4 @@
 ### Hi there :sunny:
-I'm Gemma, a Data Analyst!   
 
 :telescope: **I'm currently learning:** How to build websites (full stack: Flask, Javascript, HTML, CSS), machine learning, C#
 :rocket: **My skills include:** Data Analysis, Python, Problem Solving.   
