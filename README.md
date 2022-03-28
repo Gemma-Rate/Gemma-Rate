@@ -3,7 +3,7 @@
 :telescope: **I'm currently learning:** How to build websites (full stack: Flask, Javascript, HTML, CSS), machine learning.    
 :rocket: **My skills include:** Data Analysis, Python, Problem Solving.   
 :first_quarter_moon_with_face: **My pronouns are:** They/them.  
-:milky_way: **Some of my interests are:** Programming, art, tabletop roleplaying games, baking :cake:.  
+:milky_way: **I'm currently working on:** Updating an old worldbuilding project from Python 2 to Python 3! 
  <!--
 **Gemma-Rate/Gemma-Rate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
