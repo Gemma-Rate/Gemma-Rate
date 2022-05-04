@@ -1,6 +1,6 @@
 ### Hi there :sunny:
 
-:telescope: **I'm currently learning:** How to build websites (full stack: Flask, Javascript, HTML, CSS), machine learning.    
+:telescope: **I'm currently learning:** How to improve my website building skils, machine learning, more about databases (with Postgres).    
 :rocket: **My skills include:** Data Analysis, Python, Problem Solving.   
 :first_quarter_moon_with_face: **My pronouns are:** They/them.  
 :milky_way: **I'm currently working on:** Creating tests and features for my website project! 
